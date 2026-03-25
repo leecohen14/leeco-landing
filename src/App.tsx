@@ -2,6 +2,7 @@ import { Routes, Route, Link } from 'react-router-dom'
 import Home from './pages/Home'
 import About from './pages/About'
 import Privacy from './pages/Privacy'
+import Terms from './pages/Terms'
 import './App.css'
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
             <Link to="/">Home</Link>
             <Link to="/about">About</Link>
             <Link to="/privacy">Privacy Policy</Link>
+            <Link to="/terms">Terms of Service</Link>
           </div>
         </div>
       </nav>
@@ -23,6 +25,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/privacy" element={<Privacy />} />
+          <Route path="/terms" element={<Terms />} />
         </Routes>
       </main>
 
