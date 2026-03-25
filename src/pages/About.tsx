@@ -23,7 +23,7 @@ function About() {
       <h2>Contact</h2>
       <p>
         For inquiries, reach out at{' '}
-        <a href="mailto:contact@leeco.ai">contact@leeco.ai</a>.
+        <a href="mailto:leecohen14@gmail.com">leecohen14@gmail.com</a>.
       </p>
     </div>
   )

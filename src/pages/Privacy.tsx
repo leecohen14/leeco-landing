@@ -82,7 +82,7 @@ function Privacy() {
       <h2>9. Contact Us</h2>
       <p>
         If you have any questions about this Privacy Policy, please contact us
-        at <a href="mailto:contact@leeco.ai">contact@leeco.ai</a>.
+        at <a href="mailto:leecohen14@gmail.com">leecohen14@gmail.com</a>.
       </p>
     </div>
   )
