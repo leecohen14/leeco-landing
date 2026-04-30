@@ -6,14 +6,14 @@ function Terms() {
 
       <h2>1. Acceptance of Terms</h2>
       <p>
-        By accessing or using Leeco's service, you agree to be bound by these
+        By accessing or using Lee's service, you agree to be bound by these
         Terms of Service. If you do not agree to these terms, please do not use
         our service.
       </p>
 
       <h2>2. Description of Service</h2>
       <p>
-        Leeco provides an AI-powered service to its users. We reserve the right
+        Lee provides an AI-powered service to its users. We reserve the right
         to modify, suspend, or discontinue the service at any time without prior
         notice.
       </p>
@@ -37,7 +37,7 @@ function Terms() {
       <h2>5. Intellectual Property</h2>
       <p>
         All content, features, and functionality of the service are owned by
-        Leeco and are protected by applicable intellectual property laws. You may
+        Lee and are protected by applicable intellectual property laws. You may
         not copy, modify, or distribute any part of the service without our
         express written permission.
       </p>
@@ -51,7 +51,7 @@ function Terms() {
 
       <h2>7. Limitation of Liability</h2>
       <p>
-        To the fullest extent permitted by law, Leeco shall not be liable for
+        To the fullest extent permitted by law, Lee shall not be liable for
         any indirect, incidental, special, consequential, or punitive damages
         arising from your use of the service.
       </p>

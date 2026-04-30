@@ -1,9 +1,9 @@
 function About() {
   return (
     <div className="page">
-      <h1>About Leeco</h1>
+      <h1>About Lee</h1>
       <p>
-        Leeco is an AI-powered advisor designed to help businesses make smarter
+        Lee is an AI-powered advisor designed to help businesses make smarter
         decisions. We leverage advanced artificial intelligence to provide
         actionable insights, automate workflows, and drive growth.
       </p>

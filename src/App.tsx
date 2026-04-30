@@ -10,7 +10,7 @@ function App() {
     <div className="app">
       <nav className="nav">
         <div className="nav-inner">
-          <Link to="/" className="logo">Leeco</Link>
+          <Link to="/" className="logo">Lee</Link>
           <div className="nav-links">
             <Link to="/">Home</Link>
             <Link to="/about">About</Link>
@@ -30,7 +30,7 @@ function App() {
       </main>
 
       <footer className="footer">
-        <p>&copy; {new Date().getFullYear()} Leeco. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} Lee. All rights reserved.</p>
       </footer>
     </div>
   )

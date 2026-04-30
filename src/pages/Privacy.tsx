@@ -6,7 +6,7 @@ function Privacy() {
 
       <h2>1. Introduction</h2>
       <p>
-        Leeco ("we", "our", or "us") respects your privacy. This Privacy Policy
+        Lee ("we", "our", or "us") respects your privacy. This Privacy Policy
         explains how we collect, use, disclose, and safeguard your information
         when you use our service.
       </p>
