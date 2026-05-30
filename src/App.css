@@ -62,6 +62,7 @@ main {
 }
 
 .hero {
+  position: relative;
   text-align: center;
   padding: 80px 24px;
   max-width: 640px;
