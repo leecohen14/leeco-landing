@@ -4,6 +4,7 @@ import About from './pages/About'
 import Pricing from './pages/Pricing'
 import Privacy from './pages/Privacy'
 import Terms from './pages/Terms'
+import Contact from './pages/Contact'
 import './App.css'
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
             <Link to="/pricing">Pricing</Link>
             <Link to="/privacy">Privacy Policy</Link>
             <Link to="/terms">Terms of Service</Link>
+            <Link to="/contact">צור קשר</Link>
           </div>
         </div>
       </nav>
@@ -29,6 +31,7 @@ function App() {
           <Route path="/pricing" element={<Pricing />} />
           <Route path="/privacy" element={<Privacy />} />
           <Route path="/terms" element={<Terms />} />
+          <Route path="/contact" element={<Contact />} />
         </Routes>
       </main>
 
