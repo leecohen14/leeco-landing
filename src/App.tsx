@@ -1,6 +1,7 @@
 import { Routes, Route, Link } from 'react-router-dom'
 import Home from './pages/Home'
 import About from './pages/About'
+import Pricing from './pages/Pricing'
 import Privacy from './pages/Privacy'
 import Terms from './pages/Terms'
 import './App.css'
@@ -14,6 +15,7 @@ function App() {
           <div className="nav-links">
             <Link to="/">Home</Link>
             <Link to="/about">About</Link>
+            <Link to="/pricing">Pricing</Link>
             <Link to="/privacy">Privacy Policy</Link>
             <Link to="/terms">Terms of Service</Link>
           </div>
@@ -24,6 +26,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
+          <Route path="/pricing" element={<Pricing />} />
           <Route path="/privacy" element={<Privacy />} />
           <Route path="/terms" element={<Terms />} />
         </Routes>
